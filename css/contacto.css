@@ -1,0 +1,20 @@
+body {
+    padding: 2%;
+    margin: 0;
+    font-family: monospace;
+    background-color: rgb(44, 187, 116);
+}
+ /*
+ .social-media{
+    
+
+  
+}
+ */
+.etiqueta{
+    text-align: center;
+}
+.quit{
+    text-align: center;
+    font-size: 60px;
+}

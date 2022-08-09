@@ -1,0 +1,21 @@
+
+----------------------------------------------------------------------------------------------------------
+****************************************************************
+
+
+Mi sitio web lo estoy creando para un negocio de  ventas de pasteles
+donde los diferentes usuario, en el sitio puede hacer sus consultasy tambien 
+encargos tambien pueda ver las diferentes tarifas de dicho producto
+para asi poder hacer sus pesidos.. 
+
+
+
+Mi web la he trabajado de manera de escritorio.
+
+
+
+----------------------------------------------------------------------------------------------------------
+****************************************************************
+
+
+
